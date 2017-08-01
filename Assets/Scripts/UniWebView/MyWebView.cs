@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-//#if !UNITY_EDITOR
+#if !UNITY_EDITOR
 public class MyWebView : MonoBehaviour
 {
     private UniWebView _webView;
@@ -55,4 +55,4 @@ public class MyWebView : MonoBehaviour
         }
     }
 }
-//#endif
+#endif

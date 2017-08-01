@@ -5,4 +5,7 @@ Temp
 DemoForImprove.csproj
 DemoForImprove.Plugins.csproj
 DemoForImprove.sln
-
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp.csproj
+Packages
+obj
